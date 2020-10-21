@@ -1,7 +1,7 @@
 owner: helllth
 repo: upptime
 user-agent: cismet-uptime-bot
-i18n: i18n.yml
+#i18n: i18n.yml
 sites:
   - name: Bebauungspläne Wuppertal
     url: https://www.wuppertal.de/wirtschaft-stadtentwicklung/planverfahren/bebauungsplaene.php
