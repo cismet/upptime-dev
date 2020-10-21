@@ -1,27 +1,22 @@
-owner: koj-co
+owner: helllth
 repo: upptime
-user-agent: KojBot
+user-agent: cismet-uptime-bot
+i18n: i18n.yml
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Bebauungspläne Wuppertal
+    url: https://www.wuppertal.de/wirtschaft-stadtentwicklung/planverfahren/bebauungsplaene.php
+  - name: Dokumentenansicht 1229
+    url: https://wuppertal.planoffenlegung.de/#/docs/bplaene/1229/1/1
+  - name: PDF 1229
+    url: https://wunda-geoportal-docs.cismet.de//bplaene/verfahren/B1229.pdf
 notifications:
   - type: slack
     channel: C016QTU9S9Y
 assignees:
-  - AnandChowdhary
+  - helllth
 status-website:
-  cname: upptime.js.org
+  #cname: upptime.js.org
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
+  name: Upptime Entwicklungsinstanz der cismet GmbH
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: Dies ist eine Beispiel-Statusseite, die **Echtzeit**-Daten aus unserem [Github-Repository] (https://github.com/cismet/uptime-dev) verwendet. 
